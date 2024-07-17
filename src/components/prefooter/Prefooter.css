@@ -1,0 +1,23 @@
+#prefooter {
+  background-color: #000;
+  padding: 70px 120px;
+  color: #fff;
+  text-align: center;
+}
+#prefooter h2 {
+  font-size: 60px;
+  margin-bottom: 20px;
+}
+#prefooter h2 span {
+  color: rgb(251, 175, 0);
+}
+#prefooter p {
+  margin-bottom: 40px;
+}
+#prefooter a {
+  display: inline-block;
+  text-decoration: none;
+  background-color: rgb(251, 175, 0);
+  color: #fff;
+  padding: 15px 35px;
+}
